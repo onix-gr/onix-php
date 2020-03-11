@@ -14,27 +14,9 @@ With this official Onix PHP library you can make use of [Onix](https://onix.gr/)
 
 Onix-PHP requires PHP v5.6+ to run.
 
-##### Composer
-
-If you're using [Composer](http://getcomposer.org/), you can simply add a dependency on `onix-gr/onix-php` to your project's `composer.json` file. Here's an example of a dependency on version 1.0:
-
-```json
-{
-    "require": {
-        "onix-gr/onix-php": "^1.0"
-    }
-}
-```
-
-Alternatively you can also execute the following command in your project's root directory:
-
-```
-composer require onix-gr/onix-php
-```
-
 ##### Git
 
-If you already have git, the easiest way to download the Kraken-PHP library is with the git command:
+If you already have git, the easiest way to download the Onix-PHP library is with the git command:
 
 ```
 git clone git://github.com/onix-gr/onix-php.git /path/to/include/onix
@@ -46,13 +28,6 @@ Alternatively, you may download the PHP files from GitHub and place them within 
 
 ```
 https://github.com/onix-gr/onix-php/archive/master.zip
-```
-
-For production environments...
-
-```sh
-$ npm install --production
-$ NODE_ENV=production node app
 ```
 
 ## Getting Started
