@@ -3,6 +3,8 @@
     "description": "Official Onix.gr SDK",
     "homepage": "https://onix.gr",
     "license": "MIT",
+	"type": "vcs",
+	"url": "https://github.com/onix-gr/onix-php",
     "authors": [
         {
             "name": "Onix",
