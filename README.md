@@ -36,7 +36,7 @@ First you need to obtain an  **API Key**. You can email support@onix.gr in order
 
 ### Authentication
 
-The first step is to authenticate to Onix API by providing your unique API Key and the agency's API Username and API Password while creating a new Kraken instance:
+The first step is to authenticate to Onix API by providing your unique API Key and the agency's API Username and API Password while creating a new Onix instance:
 
 ````php
 <?php
